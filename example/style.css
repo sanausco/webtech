@@ -7,7 +7,7 @@ body {
 	font-family: Arial, Sans-serif, Helvetica;
 }
 
-.container {
+.formular {
 	width: 600px;
 	margin: 20px auto;
 	padding: 20px;
@@ -20,7 +20,7 @@ body {
 	margin: 20px auto;
 	padding: 10px;
 	border-radius: 5px;
-
+	border-color: #1CC7E2;
 }
 
 .formular input:hover {
