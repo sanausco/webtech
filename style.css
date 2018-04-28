@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Arial, Sans-serif, Helvetica;
+}
+
+.formular {
+	width: 600px;
+	margin: 20px auto;
+	padding: 20px;
+	border: 2px solid blue;
+	border-radius: 5px;
+}
+
+.formular input {
+	display: block;
+	margin: 20px auto;
+	padding: 10px;
+	border-radius: 5px;
+	border-color: #1CC7E2;
+}
+
+.formular input:hover {
+	border-color: blue;
+}
+
+.formular input[type="submit"] {
+	background-color: #fff;
+}
